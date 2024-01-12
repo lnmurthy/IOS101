@@ -2,7 +2,7 @@
 
 Submitted by: **Leisha Murthy**
 
-**CodePath IOS PreWork** is an app that teaches the indivudal how to create a project, add ui elements, and how to connect logic to the elements as well. It provides the user with a button that changes the background color of the screen as well. 
+**CodePath IOS PreWork** is an app that provides the user with a button that changes the background color of the screen.
 
 Time spent: **2** hours spent in total
 
