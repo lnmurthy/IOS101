@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 <script
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/QRavbWy"  ><a href="//imgur.com/a/QRavbWy">IOS Pre Work</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"> /script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/QRavbWy"  ><a href="//imgur.com/a/QRavbWy">IOS Pre Work</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"> </script>
 
 ## App Brainstorming (Step 4)
 
