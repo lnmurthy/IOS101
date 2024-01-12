@@ -13,7 +13,9 @@ The following **required** functionality is completed:
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
+## Video Walkthrough 
+
+the colors start to change within 10 seconds of the gif! :) 
 <a href="//imgur.com/a/QRavbWy">IOS Pre Work</a></blockquote>
 
 ## App Brainstorming (Step 4)
