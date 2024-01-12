@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-<a href="//imgur.com/a/QRavbWy">IOS Pre Work</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"> </script>
+<a href="//imgur.com/a/QRavbWy">IOS Pre Work</a></blockquote>
 
 ## App Brainstorming (Step 4)
 
