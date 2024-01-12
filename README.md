@@ -19,6 +19,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/QRavbWy"  ><a href="//imgur.com/a/QRavbWy">IOS Pre Work</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ## App Brainstorming (Step 4)
 
 ## Notes
